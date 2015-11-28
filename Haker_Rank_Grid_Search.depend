@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1447743174 source:c:\users\achraf\documents\wiki\c_tricks_projects\haker_rank_grid_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1440061920 c:\users\achraf\documents\wiki\c_tricks_projects\l.chway_debugmacros\dbg.h
+	<stdio.h>
+	<errno.h>
+	<string.h>
+
+1448744654 source:c:\users\achraf\documents\internal\wiki\c_tricks_projects\haker_rank_grid_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matrix_Utility.h"
+
+1448745061 c:\users\achraf\documents\internal\wiki\c_tricks_projects\haker_rank_grid_search\matrix_utility.h
+
+1448745118 source:c:\users\achraf\documents\internal\wiki\c_tricks_projects\haker_rank_grid_search\matrix_utility.c
+	"matrix_Utility.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
